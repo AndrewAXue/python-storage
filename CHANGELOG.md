@@ -4,6 +4,18 @@
 
 [1]: https://pypi.org/project/google-cloud-storage/#history
 
+## [1.31.0](https://www.github.com/googleapis/python-storage/compare/v1.30.0...v1.31.0) (2020-08-05)
+
+
+### Features
+
+* pass 'client_options' to base class ctor ([#225](https://www.github.com/googleapis/python-storage/issues/225)) ([e1f91fc](https://www.github.com/googleapis/python-storage/commit/e1f91fcca6c001bc3b0c5f759a7a003fcf60c0a6)), closes [#210](https://www.github.com/googleapis/python-storage/issues/210)
+
+
+### Documentation
+
+* update docs build (via synth) ([#222](https://www.github.com/googleapis/python-storage/issues/222)) ([4c5adfa](https://www.github.com/googleapis/python-storage/commit/4c5adfa6e05bf018d72ee1a7e99679fd55f2c662))
+
 ## [1.30.0](https://www.github.com/googleapis/python-storage/compare/v1.29.0...v1.30.0) (2020-07-24)
 
 
